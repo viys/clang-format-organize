@@ -163,3 +163,7 @@ SpacesInSquareBrackets: false
 Standard: c++11
 TabWidth: 4
 UseTab: Never
+
+#宏定义对齐
+AlignConsecutiveMacros: AcrossEmptyLinesAndComments
+AlignTrailingComments: true
